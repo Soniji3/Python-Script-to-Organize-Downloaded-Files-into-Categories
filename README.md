@@ -1,0 +1,2 @@
+# Python-Script-to-Organize-Downloaded-Files-into-Categories
+"File Organizer is a Python script that categorizes downloaded files based on their types into separate folders. It uses predefined categories such as Images, Documents, Videos, Music, and Others. If a file doesn't match any category, it is placed in the 'Others' folder. The script helps in organizing and managing downloaded files efficiently."
